@@ -1,0 +1,14 @@
+0 ---- E0E08877
+1 ---- E0E020DF
+2 ---- E0E0A05F
+3 ---- E0E0609F
+4 ---- E0E010EF
+5 ---- E0E0906F
+6 ---- E0E050AF
+7 ---- E0E030CF
+8 ---- E0E0B04F
+9 ---- E0E0708F
+
+Shut_Down ---- E0E040BF
+Volume_Up ---- E0E0E01F
+Volume_Down ---- E0E0D02F
